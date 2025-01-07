@@ -50,4 +50,4 @@ React Hooks: State management using useState and useEffect.
 CSS: Custom styling for the dark-themed application.
 <h1>📋How to Run the Project</h1>
 Clone the repository:
-git clone [https://github.com/yourusername/BuddyTasker.git]
+git clone https://github.com/aimansheikh17/BuddyTasker
