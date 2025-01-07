@@ -28,9 +28,11 @@ Task Actions:
 **Delete Task:** Remove tasks permanently.
 
 **Progress Overview:**
+
 Track the number of completed tasks out of the total.
 
 **Clean User Interface:**
+
 A modern and visually appealing design with dark mode-inspired aesthetics.
 
 **Responsive Design:**
@@ -41,9 +43,11 @@ Seamlessly works across all screen sizes and devices.
 **Add a Task:**
 
 Enter a task in the input field and click "Add Task" to include it in the task list.
+
 **Mark as Complete or Undo:**
 
 Click "Undo" to revert a completed task or mark it as done by selecting it.
+
 **Delete a Task:**
 
 Remove tasks by clicking the "Delete" button.
