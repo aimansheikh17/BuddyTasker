@@ -48,6 +48,9 @@ The progress bar at the top shows the completion percentage for your tasks.
 ReactJS: Frontend framework for building the interactive user interface.
 React Hooks: State management using useState and useEffect.
 CSS: Custom styling for the dark-themed application.
+
+![image](https://github.com/user-attachments/assets/b74d38a0-cfed-4954-82e6-3c386ee63fc5)
+
 <h1>📋How to Run the Project</h1>
 Clone the repository:
 git clone https://github.com/aimansheikh17/BuddyTasker
