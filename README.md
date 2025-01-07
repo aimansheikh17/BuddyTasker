@@ -52,4 +52,4 @@ CSS: Custom styling for the dark-themed application.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/BuddyTasker.git
+git clone [https://github.com/yourusername/BuddyTasker.git](https://github.com/aimansheikh17/BuddyTasker)
