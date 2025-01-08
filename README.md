@@ -27,6 +27,8 @@ Task Actions:
 
 **Delete Task:** Remove tasks permanently.
 
+**Clear All Task:** Remove all task.
+
 **Progress Overview:**
 
 Track the number of completed tasks out of the total.
