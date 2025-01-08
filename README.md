@@ -68,7 +68,8 @@ The progress bar at the top shows the completion percentage for your tasks.
 
 **CSS:** Custom styling for the dark-themed application.
 
-![image](https://github.com/user-attachments/assets/b74d38a0-cfed-4954-82e6-3c386ee63fc5)
+![image](https://github.com/user-attachments/assets/70bd01d4-dbca-4698-8bd1-3b912d12d0b3)
+
 
 <h1>📋How to Run the Project</h1>
 Clone the repository:
